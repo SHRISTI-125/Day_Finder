@@ -1,0 +1,39 @@
+body {
+  background-color: #212020;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.day {
+  max-width: 540px;
+  margin: 10px auto;
+  padding: 15px;
+  background-color: #030303;
+  box-shadow: 0 3px 6px rgba(186, 236, 245, 0.897);
+  border-radius: 10px;
+  text-align: center;
+}
+
+h2 {
+  color: #62bff9;
+  font-size: 2rem;
+}
+
+input[type='date'] {
+  padding: 10px;
+  border: 1px solid #aeeff3;
+  background-color: #02304d;
+  border-radius: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+h1 {
+  color: #a18af4;
+  font-size: 2.6rem;
+  margin-top: 12px;
+}
+
